@@ -1,0 +1,92 @@
+*****Welcome to the Computer Info Tracker! By Napon Krassner (Jett)*****
+
+---Constructed with all 5 values given:
+-Unformatted printing:
+12345 Dell 1.0GHz 1000.00 5000.00
+-Formatted printing:
+Model #: 12345, Manufacturer: Dell, Speed: 1.0GHz
+5 on hand at price: 1000.00 gives the total value of 5000.00
+
+---Constructed default, then set one member var at a time:
+-Unformatted printing:
+2468 ASUS 4.5GHz 2000.00 4000.00
+-Formatted printing:
+Model #: 2468, Manufacturer: ASUS, Speed: 4.5GHz
+2 on hand at price: 2000.00 gives the total value of 4000.00
+
+---Constructed default, then set all 5 member var:
+-Unformatted printing:
+8888 RAZER 6.2GHz 4500.00 54000.00
+-Formatted printing:
+Model #: 8888, Manufacturer: RAZER, Speed: 6.2GHz
+12 on hand at price: 4500.00 gives the total value of 54000.00
+
+---Constructed with 3 member var and the rest to default:
+-Unformatted printing:
+2341 Dell 2.0GHz 0.01 0.00
+-Formatted printing:
+Model #: 2341, Manufacturer: Dell, Speed: 2.0GHz
+0 on hand at price: 0.01 gives the total value of 0.00
+
+----------Printing all computer objects from the array...----------
+-Unformatted printing:
+21356 Alienware 8.2GHz 8000.00 64000.00
+-Formatted printing:
+Model #: 21356, Manufacturer: Alienware, Speed: 8.2GHz
+8 on hand at price: 8000.00 gives the total value of 64000.00
+
+-Unformatted printing:
+28888 Samsung 3.2GHz 2000.00 8000.00
+-Formatted printing:
+Model #: 28888, Manufacturer: Samsung, Speed: 3.2GHz
+4 on hand at price: 2000.00 gives the total value of 8000.00
+
+-Unformatted printing:
+18888 Apple 3.0GHz 10000.00 20000.00
+-Formatted printing:
+Model #: 18888, Manufacturer: Apple, Speed: 3.0GHz
+2 on hand at price: 10000.00 gives the total value of 20000.00
+
+-Unformatted printing:
+12489 Toshiba 2.8GHz 1000.00 4000.00
+-Formatted printing:
+Model #: 12489, Manufacturer: Toshiba, Speed: 2.8GHz
+4 on hand at price: 1000.00 gives the total value of 4000.00
+
+-Unformatted printing:
+15638 HP 4.8GHz 2800.00 5600.00
+-Formatted printing:
+Model #: 15638, Manufacturer: HP, Speed: 4.8GHz
+2 on hand at price: 2800.00 gives the total value of 5600.00
+
+-Unformatted printing:
+16489 Samsung 2.8GHz 2500.00 7500.00
+-Formatted printing:
+Model #: 16489, Manufacturer: Samsung, Speed: 2.8GHz
+3 on hand at price: 2500.00 gives the total value of 7500.00
+
+-Unformatted printing:
+25896 Alienware 9.8GHz 28000.00 280000.00
+-Formatted printing:
+Model #: 25896, Manufacturer: Alienware, Speed: 9.8GHz
+10 on hand at price: 28000.00 gives the total value of 280000.00
+
+-Unformatted printing:
+30569 Apple 5.2GHz 2699.00 13495.00
+-Formatted printing:
+Model #: 30569, Manufacturer: Apple, Speed: 5.2GHz
+5 on hand at price: 2699.00 gives the total value of 13495.00
+
+-Unformatted printing:
+24569 HP 4.5GHz 5000.99 40007.92
+-Formatted printing:
+Model #: 24569, Manufacturer: HP, Speed: 4.5GHz
+8 on hand at price: 5000.99 gives the total value of 40007.92
+
+-Unformatted printing:
+10230 Dell 3.0GHz 3000.11 6000.22
+-Formatted printing:
+Model #: 10230, Manufacturer: Dell, Speed: 3.0GHz
+2 on hand at price: 3000.11 gives the total value of 6000.22
+
+Press any key to continue . . .
